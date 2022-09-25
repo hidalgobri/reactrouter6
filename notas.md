@@ -1,4 +1,4 @@
-### Generalidades
+
 - App.js siempre permanece, según el path llama a un archivo como un pedazo y lo introduce en el app.js
 - Como App.js permanece, ahí se establecen las rutas (path). El path y el componente al que llegaré si voy por ese path. En los otros archivos no debo definir las rutas, solo los paths
 - su usa /**:** cuando quiero mandar algún parámetro
